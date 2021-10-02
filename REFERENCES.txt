@@ -1,0 +1,7 @@
+1.paper refered: https://arxiv.org/pdf/1708.05031.pdf
+
+2.Evaluation metrics :https://everything.explained.today/Discounted_cumulative_gain/
+
+3.Fastai
+
+4.dataset:https://drive.google.com/open?id=1xsjfgs0gIZbzATQmEf8kEH0DrHWPl7PM
